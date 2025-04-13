@@ -1,2 +1,5 @@
-# new_world_paper
-A discussion paper on a new way of working
+# A New World Paper
+## Purpose
+A small repo holding the New World discussion paper
+## Licence
+Please note the licence file.
